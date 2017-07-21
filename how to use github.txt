@@ -1,0 +1,9 @@
+clone (URL)
+cd down one
+git add (file. eg Test.txt)
+git commit -m "MESSAGE"
+git push
+
+
+Commit Every new folder git add .
+Password will look like you're not typing (RIP)
